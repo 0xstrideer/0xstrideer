@@ -27,7 +27,7 @@
 
 <hr>
  <p align="center">
-    <img src="https://skillicons.dev/icons?i=windows,linux,kali,bash,aws,azure,c,cpp,py" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,azure,bash,java,cpp,cs,py" />
  </p>
 <hr>
 
